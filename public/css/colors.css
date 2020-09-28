@@ -1,0 +1,68 @@
+/* ======================== */
+/* === BACKGROUND COLOR === */
+/* ======================== */
+.bg-tranparent { background-color: transparent; }
+.bg-clr-white-1 { background-color: #FFFFFF !important;}
+
+.bg-clr-black-1 { background-color: #000000 !important;}
+
+.bg-clr-green-1 { background-color: #057249 !important;}
+.bg-clr-green-1-opc-85 {background-color: rgba(5, 114, 73, .85);}
+.bg-clr-green-2 { background-color: #19AE4F !important;}
+.bg-clr-green-3 { background-color: #649743 !important;}
+.bg-clr-green-4 { background-color: #6CCB3D !important;}
+
+
+
+
+.bg-clr-gray-1 { background-color: #929292 !important;}
+.bg-clr-gray-2 { background-color: #AEAEAE !important;}
+.bg-clr-gray-3 { background-color: #C8D4B8 !important;}
+.bg-clr-gray-4 { background-color: #D9DED2 !important;}
+.bg-clr-gray-5 { background-color: #F0EDDC !important;}
+.bg-clr-gray-6 { background-color: #E9ECE5 !important;}
+.bg-clr-gray-7 { background-color: #727272 !important;}
+.bg-clr-gray-8 { background-color: #989898 !important;}
+.bg-clr-gray-9 { background-color: #5A5A5A !important;}
+
+
+.bg-clr-brown-1 { background-color: #CB9F49 !important;}
+
+.bg-clr-red-1 { background-color: #CB4949 !important;}
+
+
+
+
+/* ================== */
+/* === TEXT COLOR === */
+/* ================== */
+.txt-clr-white-1 { color: #FFFFFF !important;}
+
+.txt-clr-white-1 > p { color: #FFFFFF !important;}
+
+.txt-clr-black-1 { color: #000000 !important;}
+
+.txt-clr-green-1 { color: #057249 !important;}
+.txt-clr-green-2 { color: #19AE4F !important;}
+.txt-clr-green-3 { color: #649743 !important;}
+.txt-clr-green-4 { color: #00301E !important;}
+
+.txt-clr-gray-1 { color: #929292 !important;}
+.txt-clr-gray-2 { color: #AEAEAE !important;}
+.txt-clr-gray-3 { color: #C8D4B8 !important;}
+.txt-clr-gray-4 { color: #D9DED2 !important;}
+.txt-clr-gray-5 { color: #F0EDDC !important;}
+.txt-clr-gray-6 { color: #E9ECE5 !important;}
+.txt-clr-gray-7 { color: #727272 !important;}
+
+.txt-clr-red-1 { color: red !important;}
+
+
+
+/* ==================== */
+/* === BORDER COLOR === */
+/* ==================== */
+.border-clr-gray-1{border-color: #9D9D9D !important;}
+
+
+

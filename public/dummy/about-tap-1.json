@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "data": {
+    "banner": "/assets/img/galeri/img-1.png",
+    "title": "Tentang TAP",
+    "category": [
+      {
+        "id": 1,
+        "name": "Tentang TAP",
+        "nicename": "tentang-tap-1",
+        "type": 1,
+        "content": [
+            {
+                "id": 1,
+                "type": 2,
+                "format": 1,
+                "bg_color": null,
+                "button": 0,
+                "title": "Tentang TAP",
+                "image": null,
+                "icon": null,
+                "nicename": "about-us",
+                "desc": "<p>PT. Triputra Agro Persada merupakan perusahaan yang bergerak di bidang perkebunan sawit dan karet. Bersama dengan anak-anak perusahaan yang terletak di berbagai kota di Sumatera dan Kalimantan, PT. Triputra Agro Persada berkomitmen untuk selalu menghasilkan produk minyak kelapa sawit (Crude Palm Oil) dan inti kelapa sawit (Palm Kernel) yang berkualitas tinggi untuk memenuhi kebutuhan pasar di dalam negeri maupun di luar negeri. PT. Triputra Agro Persada percaya dapat berkontribusi positif bagi perekonomian dunia dan lingkungan sosial. Hal ini sesuai dengan visi perusahaan untuk menjadi “Excellent Plantation for the World” dengan mengemban misi menjadi “Green Plantation for Better Quality of Life”.</p>"
+            }
+        ],
+        "menus": null,
+        "types": "Article"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+/* ================== */
+/* === MONTSERRAT === */
+/* ================== */
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url(../assets/fonts/montserrat/Montserrat-Black.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url(../assets/fonts/montserrat/Montserrat-Bold.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-ExtraBold";
+    src: url(../assets/fonts/montserrat/Montserrat-ExtraBold.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-ExtraLight";
+    src: url(../assets/fonts/montserrat/Montserrat-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url(../assets/fonts/montserrat/Montserrat-Light.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-Medium";
+    src: url(../assets/fonts/montserrat/Montserrat-Medium.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url(../assets/fonts/montserrat/Montserrat-Regular.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-SemiBold";
+    src: url(../assets/fonts/montserrat/Montserrat-SemiBold.otf);
+}
+
+@font-face {
+    font-family: "Montserrat-Thin";
+    src: url(../assets/fonts/montserrat/Montserrat-Thin.otf);
+}
+
+/* ============== */
+/* === ROBOTO === */
+/* ============== */
+@font-face {
+    font-family: "Roboto-Black";
+    src: url(../assets/fonts/roboto/Roboto-Black.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url(../assets/fonts/roboto/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Light";
+    src: url(../assets/fonts/roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url(../assets/fonts/roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url(../assets/fonts/roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Roboto-Thin";
+    src: url(../assets/fonts/roboto/Roboto-Thin.ttf);
+}
+
+
+

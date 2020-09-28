@@ -1,0 +1,47 @@
+.box-label-map{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: row;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        flex-direction: column;
+        align-items: center;
+    } 
+}
+
+.box-label-map h2{
+    width: 100%;
+    font-size: 1.4rem;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        font-size: 1.2rem;
+    } 
+}
+
+.list-label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        margin-bottom: 20px;
+    } 
+}
+
+.list-label ol{
+    padding: 0;
+    list-style: none;
+    width: 100%;
+}
+
+.list-label ol li{
+    color : #919191;
+    cursor: pointer;
+}
+
+.list-label ol li:hover{
+    color: #057249;
+}

@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "data": {
+    "banner": "/assets/img/galeri/img-1.png",
+    "title": "Tentang TAP",
+    "category": [
+      {
+        "id": 1,
+        "name": "Tentang TAP",
+        "title": "",
+        "nicename": "tentang-tap-1",
+        "type": 1,
+        "content": [
+          {
+            "id": 1,
+            "format": 1,
+            "title": "",
+            "image": null,
+            "icon": null,
+            "background_color": null,
+            "button": false,
+            "desc": "<p>PT. Triputra Agro Persada merupakan perusahaan yang bergerak di bidang perkebunan sawit dan karet. Bersama dengan anak-anak perusahaan yang terletak di berbagai kota di Sumatera dan Kalimantan, PT. Triputra Agro Persada berkomitmen untuk selalu menghasilkan produk minyak kelapa sawit (Crude Palm Oil) dan inti kelapa sawit (Palm Kernel) yang berkualitas tinggi untuk memenuhi kebutuhan pasar di dalam negeri maupun di luar negeri. PT. Triputra Agro Persada percaya dapat berkontribusi positif bagi perekonomian dunia dan lingkungan sosial. Hal ini sesuai dengan visi perusahaan untuk menjadi “Excellent Plantation for the World” dengan mengemban misi menjadi “Green Plantation for Better Quality of Life”.</p>"
+          },
+          {
+            "id": 2,
+            "format": 2,
+            "title": "Sejarah",
+            "image": "/assets/img/tentang-kami/img-2.png",
+            "icon": null,
+            "background_color": null,
+            "button": false,
+            "desc": "<p>Pada tahun 2005, PT. Triputra Agro Persada pertama kali didirikan dengan nama PT. Alam Permata Indah, kemudian melakukan perubahan nama menjadi PT. Triputra Agro Persada di tahun yang sama. Sejak didirikan sampai dengan saat ini, Perusahaan telah mampu mengembangkan usahanya di beberapa provinsi di Indonesia, yaitu Jambi, Kalimantan Tengah dan Kalimantan Timur.</p><p>Dalam upaya untuk meningkatkan kegiatan usahanya, Perusahaan melakukan perluasan areal perkebunan dengan berinvestasi ke perusahaan-perusahaan perkebunan lainnya baik melalui Perusahaan Patungan (Joint Venture), maupun dengan melakukan Akuisisi Perusahaan (Company Acquisition).</p><p>Dalam mengembangkan bisnisnya, PT. Triputra Agro Persada memiliki komitmen untuk mematuhi peraturan pemerintah yang berlaku dan mengikuti standar dan sertifikasi yang diakui oleh nasional maupun internasional, yaitu dengan memiliki sertifikat Indonesian Sustainable Palm Oil (ISPO), Roundtable on Sustainable Palm Oil (RSPO), dan Program Penilaian Peringkat Kinerja Perusahaan Dalam Pengelolaan Lingkungan (PROPER).</p>"
+          },
+          {
+            "id": 2,
+            "format": 7,
+            "title": "VISI",
+            "image": null,
+            "icon": null,
+            "background_color": "#D9DED2",
+            "button": false,
+            "desc": "<p><q><i>Membangun Perkebunan Terbaik<br>Bagi Dunia</i></q></p><p>Membangun perkebunan secara berkelanjutan yang memberikan hasil perkebunan yang maksimal, produktifitas kerja yang tinggi, beban yang efisien, kemampuan tanam yang agresif dengan kualitas terbaik, yang tentunya disertai reputasi yang baik dan dukungan pendanaan dari pemegang saham yang dimiliki dan perbankan.</p>"
+          },
+          {
+            "id": 2,
+            "format": 7,
+            "title": "MISI",
+            "image": null,
+            "icon": null,
+            "background_color": "#C8D4B8",
+            "button": false,
+            "desc": "<p><q><i>Mengembangkan Perkebunan Ramah Lingkungan<br>yang Mampu Memperbaiki Taraf Hidup Orang Banyak</i></q></p><p>Menjadi perusahaan yang bertaraf internasional yang dominan dan diperhitungkan baik oleh perusahaan perkebunan lainnya maupun pasar. Dapat memberikan kontribusi positif bagi perekonomian dunia dan lingkungan sosial dengan konsep perkebunan yang ramah ingkungan yang dapat meningkatkan taraf hidup orang banyak.</p>"
+          },
+          {
+            "id": 2,
+            "format": 4,
+            "title": "STRUKTUR PERUSAHAAN",
+            "image": "/assets/img/tentang-kami/img-3.png",
+            "icon": null,
+            "background_color": "#C8D4B8",
+            "button": false,
+            "desc": ""
+          },
+          {
+            "id": 2,
+            "format": 5,
+            "title": "Motto Kami",
+            "image": "/assets/img/tentang-kami/img-4.png",
+            "icon": null,
+            "background_color": null,
+            "button": false,
+            "desc": "<q><i>Semangat Untuk Mencapai yang Terbaik</i></q>"
+          }
+        ]
+      }
+    ]
+  }
+}

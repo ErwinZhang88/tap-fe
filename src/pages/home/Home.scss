@@ -1,0 +1,142 @@
+.box-header-menu-home{
+    position: relative;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    height: 425px;
+    margin-bottom: 2px;
+}
+
+.box-content-carousel{
+    position: relative;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    height: 425px;
+}
+
+.title-menu{
+    position: absolute;
+    bottom: 0px;
+    height: 125px;
+    width: 100%;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        height: 90px;
+    }
+}
+
+.title-banner-home{
+    // display: -webkit-box;
+    // -webkit-line-clamp: 2;
+    // -webkit-box-orient: vertical;  
+    // overflow: hidden;
+    // height: 85px;
+
+    // @media (min-width: 320px) and (max-width: 480px) {
+    //     font-size: 1.11em !important;
+    //     height: 50px !important;
+    //     padding: 10px !important;
+    // }
+}
+
+
+.title-menu > h1{
+    text-transform: uppercase;
+    font-family: "Montserrat-Bold";
+    text-align: left;
+    font-size: 30px;
+    margin: 0;
+    padding: 15px;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        font-size: 1rem;
+    }
+}
+
+.box-header-menu-home > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 3px;
+}
+
+.box-content-carousel > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+.box-press-release-home{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px 0px 0px;
+    height: 425px;
+    margin-bottom: 2px;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        height: 300px;
+        
+    } 
+}
+
+.box-press-release-home > .cont-press-release-home{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    flex: 1;
+    padding: 20px 40px 45px;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        padding: 20px 16px;
+    } 
+}
+
+.box-press-release-home > .nav-press-release-home{
+    display: flex;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.box-press-release-home > .nav-press-release-home > .bx-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100px;
+}
+
+.player-wrapper {
+    position: relative;
+    padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.box-carousel{
+    width:100%;
+    height: 100%;
+}
+
+.box-carousel img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel.carousel-slider{
+    width: 100%;
+    height: 100%;
+}
+  

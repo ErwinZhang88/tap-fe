@@ -1,0 +1,108 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+.footer > .cont-contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 280px;
+    width: 100%;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        flex-direction: column;
+        height: auto;
+    } 
+}
+
+.footer > .cont-contact > .box-cont > div{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    width: 100%;
+    padding: 35px;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        padding: 15px 0px;
+    } 
+}
+
+.footer > .cont-contact > .box-cont > div > div.address{
+    padding: 0px 30px;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        padding: 0px 15px;
+    } 
+}
+
+.footer > .cont-contact > .box-cont > div > div.address > h5{
+    font-size: 1.25rem;
+    margin-bottom: .5rem !important; 
+    font-weight: 500 !important;
+    line-height: 1.2 !important;
+
+}
+
+
+
+.footer > .cont-contact > .box-cont > div > img{
+    width: 65px;
+    margin-right: 30px;
+
+    @media (min-width: 320px) and (max-width: 480px) {
+        width: 45px;
+        margin-right: 0px;
+    } 
+}
+
+.footer > .cont-contact > .box-cont > div.number-foot-socmed{
+    height: 280px;
+    padding: 65px 20px;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.footer > .cont-contact > .box-cont > div > div.number-foot{
+    padding: 0px 0px;
+    /* margin-right: 50px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+}
+
+.footer > .cont-contact > .box-cont > div > div.socmed{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row;
+    width: 150px;
+    margin-left: 30px;
+    margin-bottom: -30px;
+}
+
+.footer > .cont-contact > .box-cont > div > div.socmed > a{
+    margin: 0px 5px;
+}
+
+.footer > .cont-contact > .box-cont > div > div.socmed > a > img{
+    width: 100%;
+}
+
+.footer > .copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EBEBEB;
+    height: 65px;
+    width: 100%;
+}

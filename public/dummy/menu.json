@@ -1,0 +1,466 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Home",
+            "nicename": "home",
+            "banner": null,
+            "icon": null,
+            "parent_id": 0,
+            "type": 1,
+            "status": 1,
+            "comp_name": "Home",
+            "path": "/",
+            "sub_menu_left": [],
+            "sub_menu_center": [],
+            "sub_menu_right": []
+        },
+        {
+            "id": 2,
+            "name": "Tentang Kami",
+            "nicename": "tentang-kami",
+            "banner": "http://localhost:8888/tapbackend/public/storage/photos/1/tentang-kami/dna/img-1.png",
+            "icon": null,
+            "parent_id": 0,
+            "type": 1,
+            "status": 1,
+            "comp_name": "TentangKami",
+            "path": "/tentang-kami",
+            "sub_menu_left": [
+                {
+                    "name": "Tentang TAP",
+                    "nicename": "tentang-tap-1",
+                    "comp_name": "TentangTap",
+                    "path": "/tentang-kami/tentang-tap",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                },
+                {
+                    "name": "DNA TRIPUTRA",
+                    "nicename": "dna-triputra",
+                    "comp_name": "DnaTripurta",
+                    "path": "/tentang-kami/dna-tripurta",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                },
+                {
+                    "name": "Kepemimpinan",
+                    "nicename": "kepemimpinan",
+                    "comp_name": "Kepemimpinan",
+                    "path": "/tentang-kami/kepemimpinan",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ],
+            "sub_menu_center": [],
+            "sub_menu_right": []
+        },
+        {
+            "id": 6,
+            "name": "Operasional",
+            "nicename": "operasional",
+            "banner": "http://localhost:8888/tapbackend/public/storage/photos/1/operasional/img-1.png",
+            "icon": null,
+            "parent_id": 0,
+            "type": 1,
+            "status": 1,
+            "comp_name": "Operasional",
+            "path": "/operasional",
+            "sub_menu_left": [
+                {
+                    "name": "Map",
+                    "nicename": "map",
+                    "comp_name": "OperasionalMap",
+                    "path": "/operasional/map",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                },
+                {
+                    "name": "Produk",
+                    "nicename": "produk",
+                    "comp_name": "OperasionalProduk",
+                    "path": "/operasional/produk",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ],
+            "sub_menu_center": [],
+            "sub_menu_right": []
+        },
+        {
+            "id": 9,
+            "name": "Sustainability",
+            "nicename": "sustainability",
+            "banner": "http://localhost:8888/tapbackend/public/storage/photos/1/sustainability/img-1.png",
+            "icon": null,
+            "parent_id": 0,
+            "type": 2,
+            "status": 1,
+            "comp_name": "Sustainability",
+            "path": "/sustainability",
+            "sub_menu_left": [],
+            "sub_menu_center": [],
+            "sub_menu_right": [
+                {
+                    "id": 10,
+                    "name": "Komitmen",
+                    "nicename": "komitmen",
+                    "status": 2,
+                    "comp_name": null,
+                    "path": null,
+                    "item": [
+                        {
+                            "name": "Sustainability Policy",
+                            "nicename": "sustainability-policy",
+                            "comp_name": "SustainabilityPolicy",
+                            "path": "/sustainability/sustainability-policy",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Sustainability Statement",
+                            "nicename": "sustainability-statement",
+                            "comp_name": "SustainabilityStatement",
+                            "path": "/sustainability/sustainability-statement",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Sustainability Framework",
+                            "nicename": "sustainability-framework",
+                            "comp_name": "SustainabilityFramework",
+                            "path": "/sustainability/sustainability-framework",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        }
+                    ],
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                },
+                {
+                    "id": 11,
+                    "name": "Kebijakan",
+                    "nicename": "kebijakan",
+                    "status": 2,
+                    "comp_name": null,
+                    "path": null,
+                    "item": [
+                        {
+                            "name": "Integritas Produk",
+                            "nicename": "integritas-produk",
+                            "comp_name": "IntegritasProduk",
+                            "path": "/sustainability/integritas-produk",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Tanggung jawab lingkungan",
+                            "nicename": "tanggung-jawab-lingkungan",
+                            "comp_name": "TanggungJawablingkungan",
+                            "path": "/sustainability/tanggung-jawab-lingkungan",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Tanggung Jawab Sosial",
+                            "nicename": "tanggung-jawab-sosial",
+                            "comp_name": "TanggungJawabSosial",
+                            "path": "/sustainability/tanggung-jawab-sosial",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Sumber Daya Manusia",
+                            "nicename": "sumber-daya-manusia",
+                            "comp_name": "SumberDayaManusia",
+                            "path": "/sustainability/sumber-daya-manusia",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Keselamatan dan Kesehatan Kerja",
+                            "nicename": "keselamatan-dan-kesehatan-kerja",
+                            "comp_name": "KeselamatanDanKesehatanKerja",
+                            "path": "/sustainability/keselamatan-dan-kesehatan-kerja",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Tim Satgas Karhutla",
+                            "nicename": "tim-satgas-karhutla",
+                            "comp_name": null,
+                            "path": null,
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        }
+                    ],
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Agritech",
+            "nicename": "agritech",
+            "banner": "http://localhost:8888/tapbackend/public/storage/photos/1/agritech/img-1.png",
+            "icon": null,
+            "parent_id": 0,
+            "type": 0,
+            "status": 1,
+            "comp_name": "Agritech",
+            "path": "/agritech",
+            "sub_menu_left": [],
+            "sub_menu_center": [],
+            "sub_menu_right": []
+        },
+        {
+            "id": 22,
+            "name": "Riset & Pengembangan",
+            "nicename": "riset-pengembangan",
+            "banner": "http://localhost:8888/tapbackend/public/storage/photos/1/riset-pengembangan/img-1.png",
+            "icon": null,
+            "parent_id": 0,
+            "type": 0,
+            "status": 1,
+            "comp_name": "RisetPengembangan",
+            "path": "/riset-pengembangan",
+            "sub_menu_left": [],
+            "sub_menu_center": [],
+            "sub_menu_right": []
+        },
+        {
+            "id": 23,
+            "name": "Galeri",
+            "nicename": "galeri",
+            "banner": "http://localhost:8888/tapbackend/public/storage/photos/1/galeri/img-1.png",
+            "icon": null,
+            "parent_id": 0,
+            "type": 4,
+            "status": 23,
+            "comp_name": "Galeri",
+            "path": "/galeri",
+            "sub_menu_left": [
+                {
+                    "name": "Berita",
+                    "nicename": "beritas",
+                    "comp_name": "Berita",
+                    "path": "/galeri/berita",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ],
+            "sub_menu_center": [],
+            "sub_menu_right": [
+                {
+                    "id": 24,
+                    "name": "Berita",
+                    "nicename": "beritas",
+                    "status": 2,
+                    "comp_name": "Berita",
+                    "path": "/galeri/berita",
+                    "item": [
+                        {
+                            "name": "Berita",
+                            "nicename": "berita",
+                            "comp_name": "Berita",
+                            "path": "/galeri/berita",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Siaran Pers",
+                            "nicename": "siaran-pers",
+                            "comp_name": "SiaranPers",
+                            "path": "/galeri/siaran-pers",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Buletin",
+                            "nicename": "buletin",
+                            "comp_name": "Buletin",
+                            "path": "/galeri/buletin",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Video",
+                            "nicename": "video",
+                            "comp_name": "Video",
+                            "path": "/galeri/video",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        }
+                    ],
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Kontak Kami",
+            "nicename": "kontak-kami",
+            "banner": null,
+            "icon": null,
+            "parent_id": 0,
+            "type": 5,
+            "status": 29,
+            "comp_name": "KontakKami",
+            "path": "/kontak-kami",
+            "sub_menu_left": [],
+            "sub_menu_center": [
+                {
+                    "name": "Kontak Kami",
+                    "nicename": "kontak-kami-1",
+                    "comp_name": "KontakKami",
+                    "path": "/kontak-kami",
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ],
+            "sub_menu_right": [
+                {
+                    "id": 30,
+                    "name": "Kontak Kami",
+                    "nicename": "kontak-kami-1",
+                    "status": 2,
+                    "comp_name": "KontakKami",
+                    "path": "/kontak-kami",
+                    "item": [
+                        {
+                            "name": "Kontak Kami Kantor",
+                            "nicename": "kontak-kami-kantor",
+                            "comp_name": "Kantor",
+                            "path": "/kontak-kami",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Kontak Kami Karir",
+                            "nicename": "kontak-kami-karir",
+                            "comp_name": "Karir",
+                            "path": "/kontak-kami/karir",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Kontak Kami Keluhan",
+                            "nicename": "kontak-kami-keluhan",
+                            "comp_name": "Keluhan",
+                            "path": "/kontak-kami/keluhan",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        }
+                    ],
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Laporan",
+            "nicename": "laporan",
+            "banner": null,
+            "icon": null,
+            "parent_id": 0,
+            "type": 2,
+            "status": 1,
+            "comp_name": "Laporan",
+            "path": "/laporan/latest-report",
+            "sub_menu_left": [],
+            "sub_menu_center": [],
+            "sub_menu_right": [
+                {
+                    "id": 35,
+                    "name": "Report",
+                    "nicename": "report",
+                    "status": 2,
+                    "comp_name": null,
+                    "path": null,
+                    "item": [
+                        {
+                            "name": "Latest Report",
+                            "nicename": "latest-report",
+                            "comp_name": "LatestReport",
+                            "path": "/laporan/latest-report",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Sustainability Report",
+                            "nicename": "sustainability-report",
+                            "comp_name": "SustainabilityReport",
+                            "path": "/laporan/sustainability-report",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Bodiversity Report",
+                            "nicename": "bodiversity-report",
+                            "comp_name": "BodiversityReport",
+                            "path": "/laporan/bodiversity-report",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Annual Report",
+                            "nicename": "annual-report",
+                            "comp_name": "AnnualReport",
+                            "path": "/laporan/annual-report",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        },
+                        {
+                            "name": "Social Report",
+                            "nicename": "social-report",
+                            "comp_name": "SocialReport",
+                            "path": "/laporan/social-report",
+                            "sub_menu_left": [],
+                            "sub_menu_center": [],
+                            "sub_menu_right": []
+                        }
+                    ],
+                    "sub_menu_left": [],
+                    "sub_menu_center": [],
+                    "sub_menu_right": []
+                }
+            ]
+        }
+    ],
+    "message": "Data successfully."
+  }
